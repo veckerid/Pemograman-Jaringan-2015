@@ -1,2 +1,4 @@
-# tugas_progjar_2015
-Tugas pemrograman jaringan 2015 Filkom UB
+Segala Tugas Pemrograman Jaringan selama tahun 2015 akan saya upload di github ini.
+ini bersifat open source dan semua kode yang terdapat di dalam github ini boleh anda manfaatkan dan replikasi sesuai kebutuhan.
+
+#I Wayan Vendy Wiranatha
